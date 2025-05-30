@@ -8,6 +8,7 @@ I'm a German Data Scientist & Software Engineer with a strong interest in algori
 - 🧠 **Skills**: Python, React, Machine Learning (ML), Algo Trading 
 - 🌍 Based in Germany 🇩🇪  
 - ⚡ I’m passionate about:
+  - Helping Companys with AI solutions
   - Building and optimizing algorithmic trading systems  
   - Exploring how AI/ML can enhance financial decision-making  
   - Bridging the gap between data science and real-world applications  
