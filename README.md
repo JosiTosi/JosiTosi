@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- **Role:** Data Scientist & Software Engineer  
+- **Role:** Data Scientist & Software Engineer, Quant🔮
 - **Skills:** Python, React, Machine Learning (ML)
 
 ## 💡 Favorite Quote
